@@ -1,6 +1,6 @@
-let name = "Clarenz";
-let age = 21;
-let isStudent = true;
+var name = "Clarenz";
+var age = 21;
+var isStudent = true;
 
 function sayHello(name) {
     console.log("Hello, my name is " + name + "!");
