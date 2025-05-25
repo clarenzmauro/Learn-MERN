@@ -1,0 +1,4 @@
+# ignored node_modules (just do npm i to install the packages)
+node_modules/
+
+.env
